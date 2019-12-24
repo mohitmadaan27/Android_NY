@@ -9,19 +9,19 @@ Current flow of Project
 - Load data from network Api
 A:-To load data from network I have used RETROFIT network library.
 - Handling data
-A:-Livedata, GSON, Viewmodel
+#:-# Livedata, GSON, Viewmodel
 - Architecture Pattern
-A:-MVVM(Model-View-Viewmodel)
+#:-#MVVM(Model-View-Viewmodel)
 - Image Loading
-A:-Glide for displaying circular transformation
+#:-#Glide for displaying circular transformation
 - Language
-A:- Kotlin
+#:-# Kotlin
 - Displaying cards of data
-A:- Recyclerview
+#:-# Recyclerview
 - Internet No network handling
-A:- displaying snackbar
+#:-# displaying snackbar
 - Testing
-A:- Unit testing and Espresso Instrumentation Testing*
+#:-# Unit testing and Espresso Instrumentation Testing*
 
 
 
