@@ -7,21 +7,21 @@ To use this api you need to generate SAMPLE KEY from https://developer.nytimes.c
 **ANDROID** 
 Current flow of Project
 - Load data from network Api
-A:-To load data from network I have used RETROFIT network library.
+**:-** To load data from network I have used RETROFIT network library.
 - Handling data
-#:-# Livedata, GSON, Viewmodel
+**:-** Livedata, GSON, Viewmodel
 - Architecture Pattern
-#:-#MVVM(Model-View-Viewmodel)
+**:-**MVVM(Model-View-Viewmodel)
 - Image Loading
-#:-#Glide for displaying circular transformation
+**:-**Glide for displaying circular transformation
 - Language
-#:-# Kotlin
+**:-** Kotlin
 - Displaying cards of data
-#:-# Recyclerview
+**:-** Recyclerview
 - Internet No network handling
-#:-# displaying snackbar
+**:-** displaying snackbar
 - Testing
-#:-# Unit testing and Espresso Instrumentation Testing*
+**:-** Unit testing and Espresso Instrumentation Testing*
 
 
 
