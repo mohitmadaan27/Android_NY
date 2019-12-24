@@ -6,34 +6,34 @@ To use this api you need to generate SAMPLE KEY from https://developer.nytimes.c
 
 **ANDROID** 
 Current flow of Project
-- 1.Load data from network Api
+- Load data from network Api
 A:-To load data from network I have used RETROFIT network library.
-- *2.Handling data
+- Handling data
 A:-Livedata, GSON, Viewmodel
-- 3.Architecture Pattern
+- Architecture Pattern
 A:-MVVM(Model-View-Viewmodel)
-- 4.Image Loading
+- Image Loading
 A:-Glide for displaying circular transformation
-- 5.Language
+- Language
 A:- Kotlin
-- 6.Displaying cards of data
+- Displaying cards of data
 A:- Recyclerview
-- 7.Internet No network handling
+- Internet No network handling
 A:- displaying snackbar
-- 8.Testing
+- Testing
 A:- Unit testing and Espresso Instrumentation Testing*
 
 
 
 
 How we can improve this more
- DetailView Activity As message is displaying only 4 lines
- Add shared element Transition Animation
- Progress bar for initial loading
- Shimmer fake view for cards message loading
- Network available check
- Alert / Error dialog
- Database – Room for offline and already loaded message
-Paging library for load more data
-Swipe to refres data
+* DetailView Activity As message is displaying only 4 lines
+* Add shared element Transition Animation
+* Progress bar for initial loading
+* Shimmer fake view for cards message loading
+* Network available check
+* Alert / Error dialog
+* Database – Room for offline and already loaded message
+* Paging library for load more data
+* Swipe to refres data
 
