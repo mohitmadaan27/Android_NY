@@ -24,4 +24,7 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
     <string name="action_search">Search</string>
+
+    <string name="transition_string">header:title</string>
+
 </resources>

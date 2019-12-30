@@ -8,7 +8,6 @@ package com.android_demo.utils
 object CONSTANTS {
     const val DATA_URL = "https://api.nytimes.com/svc/mostpopular/v2/emailed/7.json?api-key=jhP5oWeH4PeqdbypWAH9RJmqEzkSLyKb"
     const val BASE_URL = "https://api.nytimes.com/svc/mostpopular/v2/emailed/7.json/"
-
 }
 
 

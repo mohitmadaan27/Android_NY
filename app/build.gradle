@@ -8,8 +8,8 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.android_demo"
-        minSdkVersion 15
-        targetSdkVersion 25
+        minSdkVersion 21
+        targetSdkVersion 26
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
@@ -68,6 +68,5 @@ dependencies {
     androidTestImplementation 'com.squareup.retrofit2:retrofit-mock:2.0.0'
     androidTestImplementation('com.squareup.okhttp:mockwebserver:2.7.0')
 
-    implementation 'org.jsoup:jsoup:1.11.1'
 
 }

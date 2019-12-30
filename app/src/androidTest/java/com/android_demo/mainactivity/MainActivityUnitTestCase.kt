@@ -8,7 +8,7 @@ import android.support.test.rule.ActivityTestRule
 import com.android_demo.model.DataModel
 import com.android_demo.network.ApiInterface
 import com.android_demo.network.RetrofitClientInstance
-import com.android_demo.ui.mainscrenn.ui.MainActivity
+import com.android_demo.ui.mainscreen.ui.MainActivity
 import com.android_demo.utils.CONSTANTS
 import junit.framework.TestCase.assertNotNull
 import junit.framework.TestCase.assertTrue

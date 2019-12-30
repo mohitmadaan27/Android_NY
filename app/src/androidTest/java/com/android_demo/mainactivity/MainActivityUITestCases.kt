@@ -12,7 +12,7 @@ import android.support.test.espresso.matcher.ViewMatchers.*
 import android.support.test.rule.ActivityTestRule
 import android.support.v7.widget.RecyclerView
 import com.android_demo.R
-import com.android_demo.ui.mainscrenn.ui.MainActivity
+import com.android_demo.ui.mainscreen.ui.MainActivity
 import org.hamcrest.Matchers
 import org.junit.*
 import org.junit.runners.MethodSorters
